@@ -1,0 +1,60 @@
+.gig{
+height: 45px;
+font: normal normal normal 45px/63px Circular Std Bold;
+letter-spacing: 0px;
+text-align: left;
+color:#2C263D !important;
+opacity: 0.8;
+}
+
+
+.btn-neutral{
+    background: #2F417E 0% 0% no-repeat padding-box !important;
+border: 1px solid  #FBFBFF !important;
+border-radius: 15px;
+opacity: 1;
+}
+
+
+
+.dropdown-toggle{
+    padding: 10px;
+    border: 1px solid #EEEEEE;
+    border-radius:20px;
+    transition: all .2s;
+    font-size: 10px;
+    /* border-top-right-radius: 0; */
+    /* border-bottom-right-radius: 0; */
+opacity: 1;
+
+}
+
+
+
+
+.get_job{
+    width: 150px;
+}
+
+
+.card-nav{
+    width: 270px;
+height: 196px;
+}
+
+
+
+.final{
+ 
+    left: 350px;
+}
+
+
+
+.rem{
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 30px 50px #0000000D;
+width: 270px;
+height: 196px;
+padding:10px;
+}
